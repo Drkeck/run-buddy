@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*this is just to style the entire page */
+    color: #39a6b2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* its time for header styles woo! */
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+
+/* this element only works here not in "header h1 a" while 'color' and 'font weight' don't work in "header h1"*/
+header h1 {
+    display: inline;
+}
+
+/* if this is specified in the outlined corse work then the header h1 would only read half the styles */
+header h1 a {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+
+}
+
+/* if yall are going to use text decoration on this maybe just PUT IT BEFORE AN IMAGE USING IT made me worry i did something wrong */
+header a {
+    text-decoration: none;
+    color: #fce138;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}

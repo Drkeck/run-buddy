@@ -12,3 +12,5 @@ https://Drkeck.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alex keckley
+
+### ©️2019 Run Buddy, Inc

@@ -1,5 +1,4 @@
-# Run Buddy Inc.
-
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers fitness training services
@@ -13,3 +12,5 @@ https://Drkeck.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alex keckley
+
+### ©️2019 Run Buddy, Inc
